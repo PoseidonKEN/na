@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #Yaaa berhasil lu decompile
 #mau lu rename? cantumkan nama yang buat
-#Coded By Mostoas
+#Coded By Poseidon
 import random
 import socket
 import threading
